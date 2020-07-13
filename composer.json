@@ -1,0 +1,20 @@
+{
+  "name": "skolte/git-tut",
+  "description": "description",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "skolte",
+      "email": "sonali.kolte24@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Hello\\": "src/"
+    }
+  },
+  "require": {
+
+  }
+}
