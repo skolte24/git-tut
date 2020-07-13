@@ -1,4 +1,10 @@
 <?php
-echo 'hiii';
-echo 'test';
+namespace Hello;
+
+class Hello {
+  
+  public function printHello() {		
+    echo 'Hello';
+  }
+}
 ?>
